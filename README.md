@@ -1,6 +1,6 @@
 # Generative AI and working in the context of SQL databases
 
-I had an excellent use case for AI assisted development land on my lap where it felt, that the actual task at hand was performed at that magical 10x productivity boost.
+I had an excellent use case for AI assisted development land on my lap. The use of GenAI really felt like a productivity improvement, the actual task at hand was performed at that magical 10x productivity boost.
 
 In our customer project, we are starting to build a data model from scratch and we have quite extensively mapped through various use cases. We've got some mocked functionality in both the frontend and the backend, all wired up. 
 
